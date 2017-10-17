@@ -23,3 +23,4 @@ Q_wall=A_wall*HF_wall
 Q_roof=A_roof*HF_roof
 Q_door=A_door*HF_door
 Qtot=Q_wall+Q_door+Q_roof
+print "Qtot is "+str(Qtot)+" W"
