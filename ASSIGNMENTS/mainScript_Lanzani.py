@@ -1,5 +1,5 @@
 import os
-os.chdir("C:\Users\marco\Desktop\MARCO\BUILDING")
+os.chdir("C:\Users\marco\Desktop\GIT\Python4ScientificComputing_Fundamentals")
 
 import WallCalculation_Lanzani as WC
 
